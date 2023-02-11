@@ -1,0 +1,23 @@
+{
+  "name": "idomunka",
+  "version": "1.0.0",
+  "description": "gyakorlas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server"
+  },
+  "author": "Kurucz János",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuruczJanos/idomunka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KuruczJanos/idomunka/issues"
+  },
+  "homepage": "https://github.com/KuruczJanos/idomunka#readme"
+}
