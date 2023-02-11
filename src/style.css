@@ -3,7 +3,7 @@
 * Author: Kurucz János
 * Copyright: 2023, Kurucz János
 * Group: Szoft 1/I/E
-* Date: 2023-02-04
+* Date: 2023-02-11
 * Github: https://github.com/KuruczJanos/idomunka.git
 * Licenc: GNU GPL
 */
