@@ -7,3 +7,12 @@
 * Github: https://github.com/KuruczJanos/idomunka.git
 * Licenc: GNU GPL
 */
+body{
+    background-image: url(./bodybackground.jpg);
+}
+.container{
+    background-image: url(./containerbackground.jpg);
+}
+h1{color: blanchedalmond;}
+h2{color: blanchedalmond;}
+.form-label{color: blanchedalmond;}
